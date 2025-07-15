@@ -1,4 +1,4 @@
-# AtliQ Sales and Finance Analysis  Reports
+# AtliQ Sales and Finance Analysis Reports
 
 ## Introduction
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
@@ -85,3 +85,17 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 ---
 
 This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
+
+## 📣 Contact
+
+For queries, collaboration opportunities, or feedback, feel free to reach out:
+
+- 📧 [**Email**](anandcinenkanolu@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/Anand-Cinenkanolu/)
+- 🗂️ [**Portfolio**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+
+💼 Always open to feedback, collaboration, or job opportunities in data analytics!
+
+----
+
+
